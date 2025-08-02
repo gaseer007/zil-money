@@ -1,16 +1,33 @@
-# zilmoney_machine_test
+# ZilMoney Machine Test - Flutter App
 
-A new Flutter project.
+This Flutter project demonstrates a simple user listing and user creation flow using **Clean Architecture** and **Riverpod Notifier**.  
+Built as part of a machine test, it showcases scalable architecture and modern Flutter development practices.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔍 Fetch and display users from API  
+- ➕ Add new user with form submission  
+- 🧱 Clean Architecture (Presentation, Domain, Data Layers)  
+- ⚙️ Riverpod (Notifier) for state management  
+- 📱 Responsive design using `flutter_screenutil`  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🧑‍💻 Tech Stack
+
+- **Flutter**
+- **Riverpod (Notifier)**
+- **Clean Architecture**
+- **Dio** for HTTP requests
+- **ScreenUtil** for responsive UI
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/yourusername/zilmoney_machine_test.git
+   cd zilmoney_machine_test
